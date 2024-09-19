@@ -1,4 +1,17 @@
 body {
- color: rgb(165, 66, 36);
-    background-color: red;
+ color: white
+    background-color: black;
+    font-family: Arial,Helvetica, serif;
 }
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+
+}
+a [ 
+
+]
